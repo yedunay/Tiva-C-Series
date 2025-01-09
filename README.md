@@ -63,6 +63,11 @@ Welcome to the **Tiva C Series Weekly Learning Repository**! This repository is 
 - Arithmetic and trigonometric calculations.
 - Example project: UART-based output of floating-point calculations.
 
+### Week 13: PWM (Pulse Width Modulation)
+- Understanding PWM and its applications in signal control.
+- API-based and low-level (register) PWM implementations.
+- Example projects: Controlling LED brightness
+
 ---
 
 ## Repository Structure
@@ -78,37 +83,13 @@ The repository is organized as follows:
 - **Week10/**: ADC implementation without APIs.
 - **Week11/**: Hibernation module examples and use cases.
 - **Week12/**: Floating-point operations with practical examples.
-
----
-
-### **Special Descriptions for Hibernation and Floating Point:**
-## Week 11: Hibernation Module
-### **Description:**
-The hibernation module is used to put the microcontroller into a low-power state and wake it up after a defined time. 
-
-### **Key Features:**
-- Low-power sleep mode for energy-saving applications.
-- RTC-based wake-up configuration.
-
-### **Example Project:**
-- Code demonstrates using the Hibernation module to wake up after 10 seconds and toggle an LED.
-
----
-
-## Week 12: Floating Point Operations
-### **Description:**
-This week explores how to perform floating-point arithmetic and trigonometric calculations on the Tiva C Series.
-
-### **Key Features:**
-- Addition, subtraction, multiplication, and division of floating-point numbers.
-- Calculation of sine and cosine values.
-- UART-based display of floating-point results.
+- **Week13/**: PWM basics, implementation without API's and adjustable PWM duty cycle with ADC.
 
 ---
 
 ## Getting Started
 1. Clone the repository:
-   ```zsh
+   ```bash
    git clone https://github.com/yedunay/Tiva-C-Series.git
    ```
 2. Navigate to the desired week's folder.
