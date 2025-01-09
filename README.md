@@ -68,8 +68,8 @@ Welcome to the **Tiva C Series Weekly Learning Repository**! This repository is 
 ## Repository Structure
 The repository is organized as follows:
 - **Week1/**: Contains code and resources for the first week.
-- **Week2/**: GPIO-related examples and documentation.
-- **Week3/**: Button-related projects and explanations.
+- **Week2/**: GPIO related examples and documentation.
+- **Week3/**: Button related projects and explanations.
 - **Week4/**: Interrupt examples and use cases.
 - **Week6/**: LCD interfacing and 4x4 button applications.
 - **Week7/**: Timer examples and projects.
