@@ -81,6 +81,7 @@ The repository is organized as follows:
 
 ---
 
+### **Special Descriptions for Hibernation and Floating Point:**
 ## Week 11: Hibernation Module
 ### **Description:**
 The hibernation module is used to put the microcontroller into a low-power state and wake it up after a defined time. 
@@ -107,7 +108,7 @@ This week explores how to perform floating-point arithmetic and trigonometric ca
 
 ## Getting Started
 1. Clone the repository:
-   ```bash
+   ```zsh
    git clone https://github.com/yedunay/Tiva-C-Series.git
    ```
 2. Navigate to the desired week's folder.
